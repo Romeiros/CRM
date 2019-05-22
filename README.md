@@ -29,3 +29,6 @@ Add in config folder file keys.dev.js for database connection
 And run
 
     npm run dev
+
+
+Example of app on Heroku https://immense-river-53499.herokuapp.com/
